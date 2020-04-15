@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan 2</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Or">OR</string>
+    <string name="Connect">CONNECT WITH FACEBOOK</string>
+    <string name="Register">doesnt have account ? Register </string>
+
+</resources>
