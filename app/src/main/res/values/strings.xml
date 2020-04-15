@@ -6,5 +6,15 @@
     <string name="Or">OR</string>
     <string name="Connect">CONNECT WITH FACEBOOK</string>
     <string name="Register">doesnt have account ? Register </string>
+    <string name="Almost">Almost There</string>
+    <string name="Thank">Thank you for registering with us.
+        One more step, you need to check your email to active your account</string>
+    <string name="Verify">Verify</string>
+    <string name="Verify_account">Verify your Account</string>
+    <string name="Verify_account_desc">We have send verification code to your email</string>
+    <string name="Enter">enter verification code here...</string>
+    <string name="send">SEND</string>
+    <string name="Resend">doesnt get the code? Resend</string>
+
 
 </resources>
