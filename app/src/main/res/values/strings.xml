@@ -21,7 +21,6 @@
     <string name="phone">Phone Number</string>
     <string name="male">Male</string>
     <string name="Female">Female</string>
-    <string name="blood">Blood Type</string>
     <string name="reshus">Reshus</string>
     <string name="retype">Retype Password</string>
     <string name="personal">Personal</string>
@@ -31,5 +30,17 @@
     <string name="default_location">Default Location</string>
     <string name="agree">Agree with Terms and Conditions</string>
 
+<!--    <string-array name="spinner_blood">-->
+<!--        <item>Blood Type</item>-->
+<!--        <item>A</item>-->
+<!--        <item>B</item>-->
+<!--        <item>AB</item>-->
+<!--        <item>O</item>-->
+<!--    </string-array>-->
+<!--    <string-array name="spinner_reshus">-->
+<!--        <item>Reshus</item>-->
+<!--        <item>+ Positive</item>-->
+<!--        <item>- Negative</item>-->
+<!--    </string-array>-->
 
 </resources>
