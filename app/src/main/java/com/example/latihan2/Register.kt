@@ -184,7 +184,7 @@ class Register : AppCompatActivity() {
             }
         }
 
-
-
     }
 }
+// 10117152 - M Izzudin Wijaya - Created on Friday 17 April 2020 11.23
+
