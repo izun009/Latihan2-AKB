@@ -109,7 +109,7 @@
         android:textSize="16dp" />
 
     <Spinner
-        android:id="@+id/spinner_blood"
+        android:id="@+id/blood_spinner"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/radio_male"
@@ -117,7 +117,7 @@
         android:layout_marginLeft="20dp" />
 
     <Spinner
-        android:id="@+id/spinner_reshus"
+        android:id="@+id/reshus_spinner"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/radio_female"
@@ -131,7 +131,7 @@
         android:ems="15"
         android:hint="@string/Password"
         android:inputType="textPassword"
-        android:layout_below="@id/spinner_blood"
+        android:layout_below="@id/blood_spinner"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp" />
 
@@ -186,7 +186,7 @@
         android:textSize="16dp" />
 
     <Spinner
-        android:id="@+id/spinner_job"
+        android:id="@+id/job_spinner"
         android:layout_width="323dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/radio_personal"
@@ -200,7 +200,7 @@
         android:ems="15"
         android:hint="@string/home_address"
         android:inputType="textPersonName"
-        android:layout_below="@id/spinner_job"
+        android:layout_below="@id/job_spinner"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp" />
     <EditText
@@ -232,7 +232,7 @@
         android:layout_marginLeft="20dp"
         android:ems="19"
         android:text="@string/register"
-        android:background="@drawable/btn_register"
+        android:background="@drawable/btn2"
         android:textColor="@color/lightBlue" />
 
 

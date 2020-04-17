@@ -16,7 +16,7 @@
     <string name="Verify_account_desc">We have send verification code to your email</string>
     <string name="Enter">enter verification code here...</string>
     <string name="send">SEND</string>
-    <string name="Resend">doesnt get the code? Resend</string>
+    <string name="Resend">doesnt get the code? <b>Resend</b></string>
     <string name="email">Email</string>
     <string name="phone">Phone Number</string>
     <string name="male">Male</string>
@@ -29,18 +29,39 @@
     <string name="home_address">Home Address</string>
     <string name="default_location">Default Location</string>
     <string name="agree">Agree with Terms and Conditions</string>
+    <string name="blood_type">Blood type : </string>
 
-<!--    <string-array name="spinner_blood">-->
-<!--        <item>Blood Type</item>-->
-<!--        <item>A</item>-->
-<!--        <item>B</item>-->
-<!--        <item>AB</item>-->
-<!--        <item>O</item>-->
-<!--    </string-array>-->
-<!--    <string-array name="spinner_reshus">-->
-<!--        <item>Reshus</item>-->
-<!--        <item>+ Positive</item>-->
-<!--        <item>- Negative</item>-->
-<!--    </string-array>-->
+    <string name="txt_searchdonor"><b>Search Donor</b></string>
+    <string name="txt_searchdonor_near">Search donor near you</string>
+    <string name="txt_message"><b>Message</b></string>
+    <string name="txt_message_desc">5 New Messages</string>
+    <string name="txt_blood_need"><b>Blood Needed</b></string>
+    <string name="txt_blood_need_desc">4 Users need blood</string>
+    <string name="txt_donor_history"><b>Donor History</b></string>
+    <string name="txt_donor_history_desc">5 Gives, 2 Received</string>
+
+
+    <string-array name="spinner_blood">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="spinner_reshus">
+        <item>Reshus</item>
+        <item>+ Positive</item>
+        <item>- Negative</item>
+    </string-array>
+
+    <string-array name="spinner_job">
+        <item>Job</item>
+        <item>Officer</item>
+        <item>Programmer</item>
+        <item>CEO</item>
+        <item>Manager</item>
+    </string-array>
+
 
 </resources>
